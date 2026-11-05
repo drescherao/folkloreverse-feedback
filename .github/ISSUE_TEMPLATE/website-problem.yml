@@ -1,0 +1,42 @@
+name: Report a website problem
+description: Report something broken, misleading or difficult to use.
+title: "[Website]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This report and your GitHub username will be public. Do not include passwords, contact details, private account links or screenshots containing personal information.
+        Please describe only what you actually observed. You do not need to complete the testing tasks first.
+  - type: input
+    id: page
+    attributes:
+      label: Which public page were you using?
+      placeholder: https://folkloreverse.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What were you trying to do?
+      placeholder: Describe your goal and the choices or steps you took.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What happened?
+      description: Tell us where you got stuck or what was broken or misleading. An optional screenshot can be attached here after removing personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser, if you know them
+    validations:
+      required: false
