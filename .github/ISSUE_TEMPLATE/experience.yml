@@ -1,0 +1,56 @@
+name: Share your two-task experience
+description: Tell us what you found easy, confusing or difficult.
+title: "[Experience]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for trying Folkloreverse. A task you could not finish is useful feedback.
+        This report and your GitHub username will be public. Leave out personal contact details, private links and account information. Screenshots are optional.
+        If you prefer not to post publicly, reply to the person who invited you through your existing conversation.
+  - type: dropdown
+    id: task-pair
+    attributes:
+      label: Which task pair did you try?
+      options:
+        - A - Reading stories
+        - B - Listening and returning
+        - C - Coloring sample and companion story
+        - D - Cultural context and sources
+        - Another visitor task
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What happened?
+      description: For each task, say what you chose first, where you ended up and whether you finished, got stuck, needed help or skipped it. If you tried a different task, describe it.
+      placeholder: |
+        Task 1:
+        Task 2:
+    validations:
+      required: true
+  - type: textarea
+    id: expectations
+    attributes:
+      label: What did you expect, and what surprised you?
+      description: Include a page link if you can. Was there anything you would genuinely choose next?
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser, if you know them
+      placeholder: For example, iPhone with Safari or a laptop with Firefox.
+    validations:
+      required: false
+  - type: dropdown
+    id: report-basis
+    attributes:
+      label: What is this report based on?
+      options:
+        - I tried the tasks myself
+        - I observed a participant who agreed to this anonymous summary
+        - A specialist review or automated check, not a visitor session
+    validations:
+      required: true
