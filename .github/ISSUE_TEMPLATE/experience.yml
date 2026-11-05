@@ -49,8 +49,9 @@ body:
     attributes:
       label: What is this report based on?
       options:
+        - Not specified
         - I tried the tasks myself
         - I observed a participant who agreed to this anonymous summary
         - A specialist review or automated check, not a visitor session
     validations:
-      required: true
+      required: false
