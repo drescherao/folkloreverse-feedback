@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Choose your two testing tasks
+    url: https://github.com/drescherao/folkloreverse-feedback/blob/main/TESTING.md
+    about: Pick a reading, listening, coloring or cultural-context pair.
+  - name: Visit Folkloreverse
+    url: https://folkloreverse.com/
+    about: Open the website you are giving feedback on.
