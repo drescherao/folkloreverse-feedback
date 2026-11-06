@@ -1,5 +1,7 @@
 # Two short tasks
 
+Updated November 6, 2026.
+
 Choose **one pair** below based on what you would normally enjoy. Allow about 10–15 minutes in total. You do not need to finish a whole story or recording.
 
 Start each task at [folkloreverse.com](https://folkloreverse.com/). Use the site as you normally would, including search if you wish. Please do not read other people's reports before your first attempt.
@@ -22,9 +24,9 @@ You may skip playback if this is not a suitable time or place. Say what you coul
 
 ## C · I enjoy coloring
 
-**C1.** You have an A4 or Letter printer. Find a page you could color this evening and work out which file you would use. Downloading or printing is optional.
+**C1.** You are considering a folklore coloring book. Find one you believe is available to buy now. Tell us what led you to that conclusion and what you would do next. You do not need to open a retailer or buy anything.
 
-**C2.** Find a story you would enjoy reading or hearing alongside that coloring page. Then tell us whether you think the full coloring book can be bought here yet, and what led you to that answer.
+**C2.** You have an A4 or Letter printer. Find a printable coloring sample and a related folklore story you might enjoy. Tell us which book or project the sample belongs to and what you understand is available from that project today. Downloading and printing are optional.
 
 ## D · I enjoy cultural context
 
@@ -40,7 +42,7 @@ Use [Share your experience](https://github.com/drescherao/folkloreverse-feedback
 
 - Which task you tried and whether you reached a satisfying answer, got stuck or needed help.
 - What you chose first, where you ended up, and what you expected to happen.
-- Anything that made you hesitate or want to explore further.
+- Anything that made you hesitate or want to explore further. It is also useful to say that you would choose nothing next; finding something successfully does not mean you want to buy it or continue.
 
 Your device and browser are helpful if you know them. Screenshots are optional; remove personal information first. Please describe only what actually happened. A skipped task is useful to record as skipped.
 
