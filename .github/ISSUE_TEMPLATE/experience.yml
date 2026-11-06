@@ -15,7 +15,7 @@ body:
       options:
         - A - Reading stories
         - B - Listening and returning
-        - C - Coloring sample and companion story
+        - C - Coloring books, samples and related stories
         - D - Cultural context and sources
         - Another visitor task
     validations:
@@ -34,7 +34,7 @@ body:
     id: expectations
     attributes:
       label: What did you expect, and what surprised you?
-      description: Include a page link if you can. Was there anything you would genuinely choose next?
+      description: Include a page link if you can. Was there anything you would genuinely choose next? Choosing nothing next is also useful to report.
     validations:
       required: false
   - type: input
